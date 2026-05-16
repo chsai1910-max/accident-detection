@@ -1,0 +1,6 @@
+Car
+Truck
+Bus
+TwoWheeler
+RoadSign
+Person
